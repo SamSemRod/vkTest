@@ -1,4 +1,6 @@
-export const mockGroups = [
+export const mockGroups = {
+  result: 1,
+  data: [
   {
     "id": 1,
     "name": "Котики",
@@ -181,3 +183,4 @@ export const mockGroups = [
     "members_count": 23
   }
 ]
+}
